@@ -1,1 +1,37 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+
+#tag-2 {
+    display: none;
+    visibility: hidden;
+}
+
+#tag-3 {
+    display: none;
+    visibility: hidden;
+}
+
+#tag-4 {
+    display: none;
+    visibility: hidden;
+}
+
+#tag-5 {
+    display: none;
+    visibility: hidden;
+}
+#tag-6 {
+    display: none;
+    visibility: hidden;
+}
+
+#tag-7 {
+    display: none;
+    visibility: hidden;
+}
+
+.parent {
+    display: none;
+}
